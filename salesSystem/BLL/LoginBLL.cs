@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-using SalesSystem.DAL;
+using salesSystem.DAL;
 using salesSystem.UI;
 using salesSystem.DTO;
 using System.Drawing;

@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using System.Configuration;
 
-namespace SalesSystem.DAL
+namespace salesSystem.DAL
 {
     internal class ConnDataBase
     {

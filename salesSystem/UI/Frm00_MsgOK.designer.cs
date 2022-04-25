@@ -1,4 +1,4 @@
-﻿namespace SalesSystem.UI
+﻿namespace salesSystem.UI
 {
     partial class Frm00_MsgOK
     {
@@ -87,7 +87,7 @@
             // picImagem
             // 
             this.picImagem.ErrorImage = null;
-          
+            this.picImagem.Image = global::salesSystem.Properties.Resources.Warning;
             this.picImagem.InitialImage = null;
             this.picImagem.Location = new System.Drawing.Point(22, 70);
             this.picImagem.Name = "picImagem";

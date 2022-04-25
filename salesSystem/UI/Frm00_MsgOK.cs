@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SalesSystem.UI
+namespace salesSystem.UI
 {
     public partial class Frm00_MsgOK : Form
     {
